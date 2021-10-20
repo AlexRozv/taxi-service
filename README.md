@@ -29,4 +29,5 @@ To run this project:
 * initialize your database using init_db.sql file located in recources
 * add your info to ConnectionUtil located in util to be able to connect to your database
 * run this project using Tomcat's local server
+* or you can just test it following this link taxi-service-web.herokuapp.com
 ```
